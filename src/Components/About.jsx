@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Android Developer and Data Analyst with a passion for creating user-friendly applications and data visualization. I have a strong foundation in computer science and programming, and I am constantly learning new technologies and tools to stay up-to-date. I am a highly motivated individual who is always looking to improve my skills and knowledge to become a proficient software developer. I am a team player and a quick learner who is always open to new challenges and opportunities.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -36,7 +36,13 @@ const skillsList = [
   "Inclusive design",
   "Focus group testing",
   "Mobile user interfaces",
-  "Graphic design",
+  "Android development",
+  "Data analysis",
+  "Data visualization",
+  "Python",
+  "Java",
+  "JavaScript",
+
 ];
 
 /**
@@ -45,7 +51,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Highly motivated Computer Science engineer seeking rewarding opportunities to leverage strong programming skills, academic knowledge, and practical experience to contribute effectively to the field of technology and become a proficient software developer.";
 
 const About = () => {
   return (
@@ -82,5 +88,6 @@ const About = () => {
     </section>
   );
 };
+
 
 export default About;

@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Path Visualizer Web App🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "S.Created a web-based Path Visualizer application. Hosted the project on Firebase for seamless accessibility. Collaborated with a team to ensure smooth functionality and user experience.",
+    url: "https://algo-visualizer-4de38.web.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Erp Application using Android Studio (Java)",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed an ERP application using Android Studio (Java) to manage the day-to-day activities of an educational institution. The application was designed to manage student records, attendance, and examination results.",
+    url: "https://github.com/bhanublez?tab=repositories",
   },
   {
-    title: "My Resume Site",
+    title: "Home Page Algo Visualizer",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Developed a web-based application to visualize pathfinding and sorting algorithms. The application was designed to help students understand the functionality of algorithms and data structures.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Tic Tac Toe Game using Android Studio (Java)",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a Tic Tac Toe game using Android Studio (Java) to provide a fun and interactive gaming experience. The game was designed to be user-friendly and easy to play.",
+    url: "https://github.com/bhanublez/Tic_Tac",
   },
 ];
 
