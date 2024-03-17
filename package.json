@@ -1,19 +1,19 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "Learn to Code",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Learn with me to code",
   "source": "src/index.html",
-  "homepage": "http://{bhanublez}.github.io/{portfolio}",
+  "homepage": "http://bhanublez.github.io/portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{bhanublez}.github.io/{portfolio}'",
+    "build-gh": "parcel build --public-url 'https://bhanublez.github.io/portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "https://github.com/bhanublez/portfolio?tab=readme-ov-file"
   },
   "author": "Microsoft",
   "license": "ISC",
