@@ -3,17 +3,17 @@
   "version": "1.0.0",
   "description": "Learn with me to code",
   "source": "src/index.html",
-  "homepage": "http://bhanublez.github.io/portfolio",
+  "homepage": "http://bhanublez.github.io/codespaces-project-template-js",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://bhanublez.github.io/portfolio'",
+    "build-gh": "parcel build --public-url 'https://bhanublez.github.io/codespaces-project-template-js'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bhanublez/portfolio?tab=readme-ov-file"
+    "url": "https://github.com/bhanublez/codespaces-project-template-js"
   },
   "author": "Microsoft",
   "license": "ISC",
